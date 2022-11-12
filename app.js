@@ -1,8 +1,8 @@
 const billAmount = document.getElementById("bill");
 const numberOfPeople = document.getElementById("people");
 const customTipPercentage = document.getElementById("custom");
-const billTipAmont = document.getElementById("tipAmount");
-const billTotalPerson = document.getElementById("total");
+const billTipAmount = document.getElementById("tipAmount");
+const billTotalPerPerson = document.getElementById("total");
 const resetButton = document.getElementById("resetBtn");
 const buttons = document.querySelectorAll(".tip-btns button");
 
@@ -19,24 +19,25 @@ buttons.forEach((button) => {
         parseFloat(billAmount.value),
         parseInt(tipvalue),
         parseInt(numberOfPeople.value)
-      );
-    });
-  });
+      )
+    })
+  })
 
-  //Calculate Tip When User Give Custom Tip Percentage Input
+  //Calcula a gorjeta quando o usuário dá uma entrada de porcentagem de gorjeta personalizada
 customTipPercentage.addEventListener("blur", (e) => {
     if (billAmount.value === "") {
       resetEverything();
       return;
     }
     if (numberOfPeople.value === "") numberOfPeople.value = 1;
-  
+
+
     calculateTip(
       parseFloat(billAmount.value),
       parseFloat(e.target.value),
       parseInt(numberOfPeople.value)
     );
-  });
+  }) 
 
   //Calculate Tip
 function calculateTip(billAmount, tipPercentage, numberOfPeople) {

@@ -39,7 +39,6 @@ body{
 }
 .card-container {
     display: flex;
-
     padding: 2rem;
     gap: 2rem;
 }
@@ -139,10 +138,6 @@ label {
     color: var(--Strong-cyan);
     font-size: 2rem;
 }
-.tip-amount p,
- .total p {
-    color: white;
-}
 .tip-amount span,
 .total span {
     font-size: 12px;
@@ -165,7 +160,7 @@ label {
     opacity: 100%;
 }
 
-@media screen and (max-width: 750px){
+@media screen and (max-width:750px){
     body {
         align-items: center;
         justify-content: flex-start;
