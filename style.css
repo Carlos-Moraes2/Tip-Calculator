@@ -138,6 +138,11 @@ label {
     color: var(--Strong-cyan);
     font-size: 2rem;
 }
+
+.tip-amount p, .total p{
+    color: var(--White);
+}
+
 .tip-amount span,
 .total span {
     font-size: 12px;
