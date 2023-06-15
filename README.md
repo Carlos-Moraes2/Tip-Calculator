@@ -73,9 +73,9 @@ Use esta seção para delinear as áreas nas quais você deseja continuar focand
 
 ## Autor
 
-- Website - [Adicione seu nome aqui](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- LinkedIn - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [https://github.com/Carlos-Moraes2](https://www.your-site.com)
+- Frontend Mentor - [https://github.com/Carlos-Moraes2](https://www.frontendmentor.io/profile/https://github.com/Carlos-Moraes2)
+- LinkedIn -
 
 
 
