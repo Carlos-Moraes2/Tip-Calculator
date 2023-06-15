@@ -2,56 +2,44 @@
 
 ## Welcome! 👋
 
-This is a solution to the [Tip calculator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+Esta é uma solução para o desafio do aplicativo Calculadora de gorjetas no Frontend Mentor. Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
 
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+## Índice
+- [Visão geral](#visão geral)
+  - [O desafio](#o-desafio)
+  - [Captura de tela](#captura de tela)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Meu processo](#meu-processo)
+- - [Construído com](#construído com)
+  - [O que aprendi](#o-que-aprendi)
+  - [Desenvolvimento contínuo](#desenvolvimento contínuo)
+  - [Recursos úteis](#useful-resources)
+- [Autor](#autor)
+- [Agradecimentos](#acknowledgments)
 
-## Overview
+## Visão geral
 
-### The challenge
+### O desafio
 
 Users should be able to:
 - Ver o layout ideal para o  aplicativo, dependendo do tamanho da tela do dispositivo
 -  Ver o s estados  de foco para todos os elementos interativos na págin
 -  Calcuar a gorjeta correta e  o  cusoo total da conta por pessoa
 
-
-### Screenshot
-
+### Captura de tela
 
 ![Design preview for the Tip calculator app coding challenge](./design/desktop-preview.jpg)
 
-### Links
+### Construído com
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
-
-### Built with
-
-- Semantic HTML5 markup
-- CSS custom properties
+- Marcação HTML5 semântica
+- Propriedades personalizadas CSS
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
+- Grade CSS
+- Fluxo de trabalho móvel primeiro
+- [React](https://reactjs.org/) - Biblioteca JS
 - [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+- [Componentes estilizados](https://styled-components.com/) - Para estilos
 
 ### What I learned
 
@@ -73,29 +61,21 @@ const proudOfThisFunc = () => {
 }
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+### Desenvolvimento contínuo
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+Use esta seção para delinear as áreas nas quais você deseja continuar focando em projetos futuros. Podem ser conceitos com os quais você ainda não está totalmente confortável ou técnicas que você achou úteis e que deseja refinar e aperfeiçoar.
 
-### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+### Recursos úteis
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+- [Exemplo de recurso 1](https://www.example.com) - Isso me ajudou pelo motivo XYZ. Eu realmente gostei desse padrão e vou usá-lo daqui para frente.
+- [Exemplo de recurso 2](https://www.example.com) - Este é um artigo incrível que me ajudou a finalmente entender XYZ. Recomendo a todos que ainda estão aprendendo esse conceito.
 
-### Useful resources
+## Autor
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
-
-## Author
-
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Adicione seu nome aqui](https://www.your-site.com)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- LinkedIn - [@yourusername](https://www.twitter.com/yourusername)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 
