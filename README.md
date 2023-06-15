@@ -73,7 +73,7 @@ Use esta seção para delinear as áreas nas quais você deseja continuar focand
 
 ## Autor
 
-- Website - [https://github.com/Carlos-Moraes2](https://www.your-site.com)
+- Website - [https://github.com/Carlos-Moraes2](https://https://github.com/Carlos-Moraes2)
 - Frontend Mentor - [https://github.com/Carlos-Moraes2](https://www.frontendmentor.io/profile/https://github.com/Carlos-Moraes2)
 - LinkedIn -
 
